@@ -23,17 +23,17 @@ react-codificar
 ├── src
 │   ├──  Components
 │   │    ├── Component.js // Componente com o layout dos cards
-│	  │	   ├── Loading.js // Componente com o layout do loading da página inicial
-│	  │	   ├── Modal.js // Componente do layout do modal
-│	  │	   ├── searchInput.js // Componente com o botão de pesquisar
-│	  │	   └── useModal.js // Componente que carrega o Modal
+│   │    ├── Loading.js // Componente com o layout do loading da página inicial
+│   │    ├── Modal.js // Componente do layout do modal
+│   │    ├── searchInput.js // Componente com o botão de pesquisar
+│   │    └── useModal.js // Componente que carrega o Modal
 │   ├── css
-│	  │	  ├── modal.js // Arquivo com o css do modal
-│	  │	  └── styles.js // Arquivo com o css da aplicação
+│   │    ├── modal.js // Arquivo com o css do modal
+│   │    └── styles.js // Arquivo com o css da aplicação
 │   ├── Layout
-│	  │	 └── AppBar.js // Componente com o header
+│   │    └── AppBar.js // Componente com o header
 │   ├─ utils
-│	  │   └── hooks.js // Componente que realiza as requisições da API
+│   │    └── hooks.js // Componente que realiza as requisições da API
 │   └── index.js
 ├── .gitignore
 ├── package.json
