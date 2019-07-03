@@ -1,0 +1,58 @@
+body {
+  margin: 0px !important;
+}
+
+.MuiAppBar-colorDefault-7 {
+  color: white !important;
+  background-color: white !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.MuiTypography-colorInherit-70 {
+  text-align: center!important;
+  color: #00BCD4 !important;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.loading {
+	position:fixed;
+	top:50%;
+	left:50%;
+}
+
+.root {
+  padding: 2px 4px;
+  display: flex;
+  align-items: center;
+  width: 400px;
+  margin: auto;
+}
+
+.input {
+  margin-left: 8;
+  flex: 1;
+}
+
+.iconButton {
+  padding: 10;
+}
+
+.divider {
+  width: 1;
+  height: 28;
+  margin: 4;
+}
+
+.appBar {
+  flex-grow: 1;
+  margin-bottom: 20px;
+}
+
+.titleBlack {
+  color: black;
+}
