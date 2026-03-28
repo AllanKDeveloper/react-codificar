@@ -12,7 +12,7 @@
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-jss": "8.6.1",
-    "react-scripts": "2.0.3",
+    "react-scripts": "5.0.1",
     "use-data-api": "^1.0.1"
   },
   "devDependencies": {},
